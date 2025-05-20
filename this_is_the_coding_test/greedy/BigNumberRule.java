@@ -1,4 +1,4 @@
-package this_is_the_coding_test;
+package this_is_the_coding_test.greedy;
 
 import java.util.Arrays;
 import java.util.Scanner;
